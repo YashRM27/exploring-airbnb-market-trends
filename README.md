@@ -9,6 +9,8 @@ The main goal is to summarize:
 - Average listing prices
 
 ---
+![NYC Airbnb Analysis](img/nyc.jpg)
+---
 
 ## Business Objective
 The insights from this analysis can help a real estate company:
