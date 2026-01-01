@@ -22,6 +22,27 @@ This information is useful for property investment strategies, short-term rental
 
 ---
 
+## 📂 Project Structure
+
+```
+project-folder/
+│
+├── data/
+│   ├── airbnb_last_review/tsv
+│   └── airbnb_price.csv
+│   └── airbnb_room_type.xlsx
+│
+├── notebooks/
+│   └── notebook.ipynb
+|
+├── img/
+│   └── nyc.jpg
+│
+└── README.md
+```
+
+---
+
 ## Datasets Used
 The project combines three datasets from 2019 NYC Airbnb listings:
 
