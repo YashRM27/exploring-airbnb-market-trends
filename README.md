@@ -28,7 +28,7 @@ This information is useful for property investment strategies, short-term rental
 project-folder/
 │
 ├── data/
-│   ├── airbnb_last_review/tsv
+│   ├── airbnb_last_review.tsv
 │   └── airbnb_price.csv
 │   └── airbnb_room_type.xlsx
 │
